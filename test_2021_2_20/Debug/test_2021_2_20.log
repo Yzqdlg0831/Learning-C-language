@@ -1,0 +1,8 @@
+﻿  test.c
+test.obj : error LNK2019: 无法解析的外部符号 _meun，函数 _main 中引用了该符号
+test.obj : error LNK2019: 无法解析的外部符号 _Initboard，函数 _game 中引用了该符号
+test.obj : error LNK2019: 无法解析的外部符号 _Displayboard，函数 _game 中引用了该符号
+test.obj : error LNK2019: 无法解析的外部符号 _PlayerMove，函数 _game 中引用了该符号
+test.obj : error LNK2019: 无法解析的外部符号 _ComputerMove，函数 _game 中引用了该符号
+test.obj : error LNK2019: 无法解析的外部符号 _CheckWin，函数 _game 中引用了该符号
+F:\Learning-C-language\test_2021_2_20\Debug\test_2021_2_20.exe : fatal error LNK1120: 6 个无法解析的外部命令
