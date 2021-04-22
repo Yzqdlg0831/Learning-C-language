@@ -1,0 +1,2 @@
+F:\Learning-C-language\test_2021_4_22\Debug\test_2021_4_22.exe
+F:\Learning-C-language\test_2021_4_22\Debug\test_2021_4_22.pdb
