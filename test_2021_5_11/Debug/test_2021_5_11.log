@@ -1,0 +1,26 @@
+﻿  test.c
+F:\Learning-C-language\test_2021_5_11\test.c(26,15): warning C4013: “strcmp”未定义；假设外部返回 int
+F:\Learning-C-language\test_2021_5_11\test.c(26,24): error C2065: “s_ID”: 未声明的标识符
+F:\Learning-C-language\test_2021_5_11\test.c(26,26): error C2109: 下标要求数组或指针类型
+F:\Learning-C-language\test_2021_5_11\test.c(31,54): error C2065: “stu”: 未声明的标识符
+F:\Learning-C-language\test_2021_5_11\test.c(31,56): error C2109: 下标要求数组或指针类型
+F:\Learning-C-language\test_2021_5_11\test.c(31,72): error C2065: “stu”: 未声明的标识符
+F:\Learning-C-language\test_2021_5_11\test.c(31,74): error C2109: 下标要求数组或指针类型
+F:\Learning-C-language\test_2021_5_11\test.c(31,92): error C2065: “stu”: 未声明的标识符
+F:\Learning-C-language\test_2021_5_11\test.c(31,94): error C2109: 下标要求数组或指针类型
+F:\Learning-C-language\test_2021_5_11\test.c(31,111): error C2065: “stu”: 未声明的标识符
+F:\Learning-C-language\test_2021_5_11\test.c(31,113): error C2109: 下标要求数组或指针类型
+F:\Learning-C-language\test_2021_5_11\test.c(31,130): error C2065: “stu”: 未声明的标识符
+F:\Learning-C-language\test_2021_5_11\test.c(31,132): error C2109: 下标要求数组或指针类型
+F:\Learning-C-language\test_2021_5_11\test.c(31,147): error C2065: “stu”: 未声明的标识符
+F:\Learning-C-language\test_2021_5_11\test.c(31,149): error C2109: 下标要求数组或指针类型
+F:\Learning-C-language\test_2021_5_11\test.c(31,164): error C2065: “stu”: 未声明的标识符
+F:\Learning-C-language\test_2021_5_11\test.c(31,166): error C2109: 下标要求数组或指针类型
+F:\Learning-C-language\test_2021_5_11\test.c(31,13): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+F:\Learning-C-language\test_2021_5_11\test.c(31,13): message : 占位符和其参数预计 6 可变参数，但提供的却是 0 参数
+F:\Learning-C-language\test_2021_5_11\test.c(31,13): message : 缺失的可变参数 1 为格式字符串“%s”所需
+F:\Learning-C-language\test_2021_5_11\test.c(39,20): error C2065: “name”: 未声明的标识符
+F:\Learning-C-language\test_2021_5_11\test.c(39,22): error C2109: 下标要求数组或指针类型
+F:\Learning-C-language\test_2021_5_11\test.c(53,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+F:\Learning-C-language\test_2021_5_11\test.c(142,8): warning C4013: “exit”未定义；假设外部返回 int
+F:\Learning-C-language\test_2021_5_11\test.c(7): fatal error C1075: “{”: 未找到匹配令牌
